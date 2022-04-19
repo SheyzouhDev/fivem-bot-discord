@@ -4,7 +4,7 @@ FiveD est un bot discord qui permet de voir combien de personne sont connecté s
 
 - Aller dans le fichier FiveD.json
 - ![image](https://user-images.githubusercontent.com/83259991/163959689-a22462c8-9496-40b8-b5cc-ae44b4c86700.png)
-- Vous devez mettre l'ip de votre server puis le port 
+- Vous devez mettre l'ip de votre server ainsi que le port 
 
 2 - Comment démarrer le bot
 
