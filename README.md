@@ -19,5 +19,3 @@ FiveD est un bot discord qui permet de voir combien de personne sont connecté s
 - Exécutez start.bat
 
 ![Capture](https://user-images.githubusercontent.com/83259991/163886117-eea9d116-6df2-445a-aadb-eb7f6f46eae4.PNG)
-
-# fivem-bot-discord
