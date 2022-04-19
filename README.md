@@ -9,8 +9,8 @@ FiveD est un bot discord qui permet de voir combien de personne sont connecté s
 2 - Comment démarrer le bot
 
 - Aller dans le fichier .env
-- ![image](https://user-images.githubusercontent.com/83259991/163884220-60798aca-cf94-49d7-a08a-4c3f76bdc347.png)
-- Changer le token par le votre (le token présent sur le screen n'est pas valide ;) )
+- ![image](https://user-images.githubusercontent.com/83259991/163960265-f8c416e0-bee1-460c-b8e2-8147881938ff.png)
+- Ajoutez votre token après TOKEN=
 
 - Executez le fichier install.bat pour installer les modules indispensable au fonctionnement du bot (si vous avez la moindre inquietude clic droit > modifier pour voir ce qui va etre executé)
 
